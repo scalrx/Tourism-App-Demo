@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FlorIDA Tourism</string>
+    <string name="title_activity_store_info">Location Information</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="greeting_text">Welcome to FlorIDA Tourism! We\'d like to show you the finest places
+        to go and see in Florida, and this app will help you accomplish that!
+    </string>
+    <string name="request_download">Before we can start, we need to get our most up-to-date
+        information from the Internet. If that\'s okay, tap the button below.
+    </string>
+    <string name="button_download_resources">Fetch Resources</string>
+    <string name="accept_download">Alright! Hang tight. This\'ll only take a moment.</string>
+    <string name="download_failed">Uh-oh! Something went wrong... We weren\'t able to connect to the Internet.
+        Check to make sure that your device\'s Internet connect is enabled and working and try again.
+    </string>
+    <string name="list_text">Check out this list of all of our exciting locations right here in Florida!</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
